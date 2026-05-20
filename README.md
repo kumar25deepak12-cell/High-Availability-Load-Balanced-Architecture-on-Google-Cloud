@@ -250,4 +250,6 @@ CI/CD pipeline integration
 
 Successfully designed and implemented a highly available, scalable, fault-tolerant, and load-balanced web application architecture on Google Cloud Platform using cloud-native infrastructure services and enterprise architecture principles.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fa5a4445-17f5-4822-a004-fe3a072d83cf" />
+
 	
